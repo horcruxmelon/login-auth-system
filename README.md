@@ -70,7 +70,7 @@ login-auth-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/login-auth-system.git
+   git clone https://github.com/horcruxmelon/login-auth-system.git
    cd login-auth-system
    ```
 
@@ -144,4 +144,4 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-Made with ❤️ by [Your Name]
+Made by Hrishi Menon M
